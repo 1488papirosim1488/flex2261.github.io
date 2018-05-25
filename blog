@@ -1,0 +1,797 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+    <link rel="shortcut icon" href="https://skins.cash/blog/wp-content/themes/skinscash/favicon.ico"/>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="profile" href="http://gmpg.org/xfn/11">
+        <title>Skins.cash Blog - CS:GO, Dota 2, TF2 and PUBG News</title>
+
+<!-- This site is optimized with the Yoast SEO Premium plugin v6.1.1 - https://yoa.st/1yg?utm_content=6.1.1 -->
+<meta name="description" content="Skins.cash Blog - Read the most authoritative, up-to-date news, guides, reviews and updates from the video games industry, such as PUBG, Dota 2, TF2 and CS:GO."/>
+<link rel="canonical" href="blog" />
+<link rel="next" href="https://skins.cash/blog/page/2/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Skins.cash Blog - CS:GO, Dota 2, TF2 and PUBG News" />
+<meta property="og:description" content="Skins.cash Blog - Read the most authoritative, up-to-date news, guides, reviews and updates from the video games industry, such as PUBG, Dota 2, TF2 and CS:GO." />
+<meta property="og:url" content="https://skins.cash/blog/" />
+<meta property="og:site_name" content="Skins.cash | Blog" />
+<meta property="og:image" content="https://skins.cash/blog/wp-content/uploads/2018/03/sosial-001.png" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Skins.cash Blog - Read the most authoritative, up-to-date news, guides, reviews and updates from the video games industry, such as PUBG, Dota 2, TF2 and CS:GO." />
+<meta name="twitter:title" content="Skins.cash Blog - CS:GO, Dota 2, TF2 and PUBG News" />
+<meta name="twitter:image" content="https://skins.cash/blog/wp-content/uploads/2018/03/sosial-001.png" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"http:\/\/skinscash-blog.devss.xyz\/","name":"Skins.cash | Blog","potentialAction":{"@type":"SearchAction","target":"http:\/\/skinscash-blog.devss.xyz\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<meta name="google-site-verification" content="yC64l8RSGqTdMaJKM8E65OEPIJnKl87-VKLqerKFUmE" />
+<!-- / Yoast SEO Premium plugin. -->
+
+<link rel="amphtml" href="https://skins.cash/blog/amp/" /><link rel='stylesheet' id='style-css'  href='https://skins.cash/blog/wp-content/themes/skinscash/assets/css/style.css?ver=4.9.6' type='text/css' media='all' />
+<link rel='stylesheet' id='A2A_SHARE_SAVE-css'  href='https://skins.cash/blog/wp-content/plugins/add-to-any/addtoany.min.css?ver=1.14' type='text/css' media='all' />
+<script type='text/javascript' src='https://skins.cash/blog/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://skins.cash/blog/wp-content/plugins/add-to-any/addtoany.min.js?ver=1.0'></script>
+<script type='text/javascript' src='https://skins.cash/blog/wp-content/themes/skinscash/lastNews.json?ver=4.9.6'></script>
+<meta name="generator" content="WordPress 4.9.6" />
+
+<script type="text/javascript">
+window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};
+a2a_config.icon_color="transparent,#0de5a0";
+</script>
+<script type="text/javascript" src="https://static.addtoany.com/menu/page.js" async="async"></script>
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		<!--    <script>-->
+<!--        (function ($) {-->
+<!--            $(document).ready(function () {-->
+<!--                $.ajax(-->
+<!--                    {-->
+<!--                        url: '//connect.facebook.net/en_US/sdk.js',-->
+<!--                        dataType: 'script',-->
+<!--                        cache: true,-->
+<!--                        success: function (script, textStatus, jqXHR) {-->
+<!--                            FB.init(-->
+<!--                                {-->
+<!--                                    appId: '2044997385759510',-->
+<!--                                    xfbml: true,-->
+<!--                                    version: 'v2.8'-->
+<!--                                }-->
+<!--                            );-->
+<!---->
+<!--                            $('#loginbutton,#feedbutton').removeAttr('disabled');-->
+<!--                            FB.getLoginStatus(function(){-->
+<!--                                console.log('Status updated');-->
+<!--                            });-->
+<!--                        }-->
+<!--                    });-->
+<!--            })-->
+<!--        })(jQuery);-->
+<!--    </script>-->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-77131735-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-77131735-1');
+    </script>
+</head>
+
+<body class="home blog">
+<div id="fb-root"></div>
+<!--<script>-->
+<!--    (function (d, s, id) {-->
+<!--        var js, fjs = d.getElementsByTagName(s)[0];-->
+<!--        if (d.getElementById(id)) return;-->
+<!--        js = d.createElement(s);-->
+<!--        js.id = id;-->
+<!--        js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.12&appId=418691641840077&autoLogAppEvents=1';-->
+<!--        fjs.parentNode.insertBefore(js, fjs);-->
+<!--    }(document, 'script', 'facebook-jssdk'));-->
+<!--</script>-->
+<!-- <svg xmlns="https://skins.cash/blog/wp-content/themes/skinscash/assets/images/sprite.svg" display="none"></svg> -->
+<svg xmlns="http://www.w3.org/2000/svg" display="none">
+    <symbol id="ic-facebook" viewBox='0 0 6.4 12.8' fill="currentColor">
+        <path d='M6.4 2.4H4.8c-.5 0-.8.3-.8.8v1.6h2.4v2.4H4v5.6H1.6V7.2H0V4.8h1.6v-2C1.6 1.3 2.9 0 4.4 0h2v2.4z'/>
+    </symbol>
+    <symbol id="ic-vk" viewBox='0 0 284 162' fill="currentColor">
+        <path d='M138.9 161.3h17s5.1-.6 7.7-3.4c2.4-2.6 2.3-7.5 2.3-7.5s-.3-22.8 10.2-26.1c10.4-3.3 23.8 22 38 31.7 10.7 7.4 18.9 5.8 18.9 5.8l37.9-.5s19.8-1.2 10.4-16.8c-.8-1.3-5.5-11.5-28.2-32.6-23.8-22.1-20.6-18.5 8.1-56.7 17.4-23.3 24.4-37.4 22.2-43.5-2.1-5.8-14.9-4.3-14.9-4.3l-42.7.3s-3.2-.4-5.5 1-3.8 4.6-3.8 4.6-6.8 18-15.8 33.3c-19 32.3-26.6 34-29.7 32-7.2-4.7-5.4-18.8-5.4-28.8 0-31.3 4.7-44.3-9.2-47.7-4.6-1.1-8.1-1.9-19.9-2-15.2-.2-28.1 0-35.4 3.6-4.9 2.4-8.6 7.7-6.3 8 2.8.4 9.2 1.7 12.6 6.3 4.4 6 4.2 19.3 4.2 19.3s2.5 36.8-5.9 41.4c-5.8 3.1-13.7-3.3-30.6-32.6-8.7-15-15.2-31.6-15.2-31.6s-1.3-3.1-3.5-4.8c-2.7-2-6.6-2.6-6.6-2.6l-40.5.3s-6.1.2-8.3 2.8c-2 2.4-.2 7.2-.2 7.2s31.8 74.3 67.7 111.8c33 34.4 70.4 32.1 70.4 32.1z'/>
+    </symbol>
+    <symbol id="ic-twitter" viewBox='0 0 12.8 10.4' fill="currentColor">
+        <path d='M12.8 1.2c-.5.2-1 .4-1.5.4.5-.3 1-.8 1.2-1.5-.5.3-1.1.5-1.7.6C10.3.3 9.6 0 8.9 0 7.4 0 6.2 1.2 6.2 2.6c0 .2 0 .4.1.6C4.1 3.1 2.2 2.1.9.5.7.9.5 1.3.5 1.8c0 .9.5 1.7 1.2 2.2-.4 0-.8-.1-1.2-.3C.5 5 1.4 6 2.6 6.3c-.2 0-.4.1-.7.1h-.5c.3 1 1.3 1.8 2.5 1.8-.9.6-2 1.1-3.3 1.1H0c1.2.7 2.5 1.2 4 1.2 4.8 0 7.5-4 7.5-7.5v-.3c.5-.5.9-.9 1.3-1.5zm0 0'/>
+    </symbol>
+    <symbol id="ic-steam" viewBox='0 0 382.5 225.1' fill="currentColor">
+        <path d='M49.9 155.6c11.4 0 21.8-3.8 30.1-10.1l106 35.9c5.7 25.1 28.1 43.8 55 43.8 31.3 0 56.5-25.1 56.5-56.2 0-3-.2-6-.8-8.9l42.9-36.6c25-8.6 42.9-32.2 42.9-60C382.5 28.4 354 0 318.6 0c-35.2 0-63.8 28.5-63.8 63.5 0 .9.2 1.9.3 2.8l-15.3 46.5c-15.3.3-29 6.6-39.1 16.7L98.4 94.9c-5.1-22.1-24.9-38.5-48.6-38.5C22.4 56.4 0 78.6 0 106.1c0 27.4 22.4 49.6 49.9 49.5zM318.6 14.4c27.3 0 49.4 22.1 49.4 49.3 0 27.3-22.1 49.3-49.4 49.3-27.3 0-49.6-22-49.6-49.3 0-27.3 22.3-49.3 49.6-49.3zm-99.7 178.2c13.4 7.1 29.9 2.2 37.1-11.2 7.3-13.4 2.2-29.9-11.2-37l-21-7.1c2.7-.7 5.6-1 8.5-1 20.7 0 37.7 16.8 37.7 37.6 0 20.6-16.8 37.4-37.7 37.5-17.1 0-31.3-11-36.1-26.5l22.7 7.7zM50.8 71.1c13.1 0 24.5 7.3 30.5 17.9l-11-3.7C57 78.2 40.4 83.2 33.1 96.5c-7.1 13.3-2.1 29.9 11.2 37l16.6 5.6c-3.2 1.1-6.6 1.5-10.2 1.5-19.3 0-34.9-15.6-34.9-34.8 0-19.1 15.6-34.7 35-34.7z'/><path d='M318.6 99.2c19.5 0 35.3-15.8 35.3-35.3 0-19.5-15.8-35.3-35.3-35.3-19.7 0-35.4 15.8-35.4 35.3-.1 19.6 15.7 35.3 35.4 35.3z'/>
+    </symbol>
+    <symbol id="ic-insta" viewBox='4 194 406.1 406.1' fill="currentColor">
+        <path d='M339.4 282.2c0-9.7-7.9-17.7-17.7-17.7-9.7 0-17.7 7.9-17.7 17.7 0 9.7 7.9 17.7 17.7 17.7 9.8 0 17.7-7.9 17.7-17.7M207 476.4c-42.4 0-79.4-37.1-79.4-79.4s37.1-79.4 79.4-79.4 79.4 37.1 79.4 79.4-37 79.4-79.4 79.4m0-194.2c-63.6 0-114.8 51.2-114.8 114.8S143.4 511.8 207 511.8 321.8 460.6 321.8 397 270.6 282.2 207 282.2'/><path class='st0' d='M374.7 515.3c0 27.4-22.1 49.4-49.4 49.4H88.7c-27.4 0-49.4-22.1-49.4-49.4V278.7c0-27.4 22.1-49.4 49.4-49.4h236.6c27.4 0 49.4 22.1 49.4 49.4v236.6zM321.8 194H92.2C43.7 194 4 233.7 4 282.2v229.5C4 560.3 43.7 600 92.2 600h229.5c48.6 0 88.3-39.7 88.3-88.3V282.2c0-48.5-39.7-88.2-88.2-88.2z'/>
+    </symbol>
+    <symbol id="ic-telegram" viewBox="0 0 27 27">
+        <use xlink:href="#path0_fill" fill="currentColor"/>
+        <use xlink:href="#path1_fill" style="transform: translate(17%, 20%);-webkit-transform: translate(17%, 20%);" fill="#1D2532"/>
+        <defs>
+        <path id="path0_fill" d="M 27 13.5C 27 20.9558 20.9558 27 13.5 27C 6.04416 27 0 20.9558 0 13.5C 0 6.04416 6.04416 0 13.5 0C 20.9558 0 27 6.04416 27 13.5Z"/>
+        <path id="path1_fill" d="M 13 13.5L 16 0L 0 7L 5 9.5L 5 14.5L 9 11.5L 13 13.5Z"/>
+        </defs>
+    </symbol>
+    <symbol id="ic-linkedin" viewBox="0 0 42.3 36" fill="currentColor">
+        <path d="M36.7,0H6C4.5,0,3.3,1.2,3.3,2.6v30.8C3.3,34.8,4.5,36,6,36h30.7c1.5,0,2.7-1.2,2.7-2.6V2.6
+        C39.3,1.2,38.1,0,36.7,0z M14,30.7H8.7V13.5H14V30.7z M11.3,11.1c-1.7,0-3.1-1.4-3.1-3.1C8.2,6.3,9.6,5,11.3,5
+        c1.7,0,3.1,1.4,3.1,3.1C14.4,9.8,13,11.1,11.3,11.1z M34,30.7h-5.3v-8.4c0-2,0-4.6-2.8-4.6c-2.8,0-3.2,2.2-3.2,4.4v8.5h-5.3V13.5
+        h5.1v2.3h0.1c0.7-1.4,2.5-2.8,5.1-2.8c5.4,0,6.4,3.6,6.4,8.2V30.7z"/>
+    </symbol>
+    <symbol id="ic-like" viewBox="0 0 27 27">
+        <use xlink:href="#path2_fill" fill="currentColor"/>
+        <use xlink:href="#path3_fill" style="transform: translate(23.2%, 31%);-webkit-transform: translate(23.2%, 31%);" fill="#232C3D"/>
+        <defs>
+        <path id="path2_fill" d="M 27 13.5C 27 20.9558 20.9558 27 13.5 27C 6.04416 27 0 20.9558 0 13.5C 0 6.04416 6.04416 0 13.5 0C 20.9558 0 27 6.04416 27 13.5Z"/>
+        <path id="path3_fill" d="M 7.28007 12.32L 0.0407837 3.696C -0.160308 2.464 0.282093 0 3.66043 0C 6.21907 0 7.09364 1.41337 7.28005 2.63445C 7.46641 1.41337 8.34093 0 10.8996 0C 14.2779 0 14.7203 2.464 14.5192 3.696L 7.28007 12.32Z"/>
+        </defs>
+    </symbol>
+    <symbol id="ic-arrow" viewBox='0 0 6.7 11.2'>
+        <path d='M6.5 9.5L2.6 5.6l3.9-3.9c.4-.4.4-1 0-1.4-.4-.4-1-.4-1.4 0L.2 5.1c-.2.2-.2.6 0 .9L5 10.9c.4.4 1 .4 1.4 0 .4-.4.4-1 .1-1.4z'/>
+    </symbol>
+</svg>
+
+
+<header class="c-header is-login">
+    <div class="l-container">
+        <a class="c-header__logo" href="index.html">
+            <img alt="logo" draggable="false" src="https://skins.cash/blog/wp-content/themes/skinscash/assets/images/logo.svg" width="115" height="32">
+        </a>
+
+        <div class="c-header__menu js-menu">
+            <a class="c-header__logo c-header__logo--mob" href="index.html">
+                <img alt="logo" draggable="false" src="https://skins.cash/blog/wp-content/themes/skinscash/assets/images/logo.svg" width="115" height="32">
+            </a>
+
+            <button class="c-header__menu-btn js-menu-btn">
+                <span></span>
+            </button>
+            <ul class="c-menu-top">
+                <li><a href="how-it-works">How it works</a></li>
+                <li><a href="loyalty-bonus">Bonus</a></li>
+                <li><a href="faq">FAQ</a></li>
+                <li><a href="contact-us">Contact Us</a></li>
+                <li><a href="free-skins-giveaway">Giveaway</a></li>
+                <li><a href="partnership">Partnership</a></li>
+            </ul>
+        </div>
+<h1 class="c-header__title">CS:GO/Dota 2/TF2/PUBG Blog</h1>    </div>
+
+    <script>
+        var menuBtn = document.querySelector('.js-menu-btn');
+        menuBtn.addEventListener("click", function () {
+            document.querySelector('.js-menu').classList.toggle('is-open');
+            document.querySelector('.js-main-wrap').classList.toggle('is-inactive');
+        });
+    </script>
+</header>
+
+<div class="l-wrapper js-main-wrap">
+    <div class="l-container l-container--main">
+                <div id="breadcrumbs" class="c-breadcrumb c-breadcrumb--blog"><span xmlns:v="http://rdf.data-vocabulary.org/#"><span class="c-breadcrumb__item">Home</span></span></div>        
+<div class="l-container-menu">
+<ul id="menu-cats" class="c-menu-sub js-tabs-menu"><li id="menu-item-55" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-55"><a href="blog">All posts</a></li>
+<li id="menu-item-15" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15"><a href="https://skins.cash/blog/guides/">Guides</a></li>
+<li id="menu-item-51" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-51"><a href="https://skins.cash/blog/reviews/">Reviews</a></li>
+<li id="menu-item-52" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-52"><a href="https://skins.cash/blog/news/">News</a></li>
+<li id="menu-item-53" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-53"><a href="https://skins.cash/blog/updates/">Updates</a></li>
+<li id="menu-item-54" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-54"><a href="https://skins.cash/blog/tournaments/">Tournaments</a></li>
+</ul>
+</div>        <!--    <nav class="site-header__nav">-->
+                <!--    </nav>-->
+    
+    
+    
+
+
+
+
+        <section class="с-blogs">
+            <h2 class="c-blogs__title">News</h2>
+            <div class="c-blogs-grid">
+                                                    <article class="c-blogs__item  c-blogs__item--large">
+                                    <a href="https://skins.cash/blog/new-pubg-event-ghillie-crossing/" title="New PUBG event – Ghillie Crossing"
+   class="c-blogs__item-img-wrap">
+    <img src="https://skins.cash/blog/wp-content/uploads/2018/05/skinscash_blog_tumba_pubg_event.jpg" class="c-blogs__item-img" alt=""/>
+</a>
+<div class="c-blogs__item-content">
+    <div class="c-blogs__item-title"><a href="https://skins.cash/blog/new-pubg-event-ghillie-crossing/" title="New PUBG event – Ghillie Crossing">New PUBG event – Ghillie Crossing</a>
+    </div>
+    <div class="c-blogs__item-text">
+        Guys, have you heard about those times when there were no firearms at all, and warriors battled with bows and clubs? Something similar is happening in the PUBG universe during an upcoming event named Ghillie Crossing. Unlike the previous event, War Mode: Desert Knights, which took place on the Miramar map, this one invites players to ...     </div>
+    <div class="c-blogs__item-footer">
+        <div class="o-author o-author--logo">
+            <a href="https://skins.cash/blog/author/skins-cash/" class="o-author__logo">
+                <img src="https://skins.cash/blog/wp-content/uploads/2018/02/skinscash-avatar-150x150.jpg" width="50" height="50" alt="skins.cash" class="avatar avatar-50 wp-user-avatar wp-user-avatar-50 alignnone photo" />            </a>
+            <a href="https://skins.cash/blog/author/skins-cash/" class="o-author__name">skins.cash</a>
+            <span class="o-author__date">May 24, 2018</span>
+        </div>
+<!--        <div class="c-blogs__item-like">-->
+<!--            <span class="o-favorite c-article-share__icon">-->
+<!--                <svg class="ic-favorite"><use xlink:href="#ic-favorite"/></svg>-->
+<!--                <span class="o-favorite__counter">2</span>-->
+<!--            </span>-->
+<!--        </div>-->
+    </div>
+</div>                    </article>
+                                                    <article class="c-blogs__item">
+                                    <a href="https://skins.cash/blog/cs-go-update-05-22-2018/" title="Small Update of CS:GO – from 5/22/2018"
+   class="c-blogs__item-img-wrap">
+    <img src="https://skins.cash/blog/wp-content/uploads/2018/05/skinscash_blog_tumba_csgo_upd_02.jpg" class="c-blogs__item-img" alt=""/>
+</a>
+<div class="c-blogs__item-content">
+    <div class="c-blogs__item-title"><a href="https://skins.cash/blog/cs-go-update-05-22-2018/" title="Small Update of CS:GO – from 5/22/2018">Small Update of CS:GO – from 5/22/2018</a>
+    </div>
+    <div class="c-blogs__item-text">
+        Developers from Valve continue working on their classic multiplayer shooting game – they released a new update, which turned out to be a rather small one. Most of the changes are concerned with in-game sounds: decreased volume of ambient sounds in Nuke, helicopters, some effects of Glocks and AK-47s; removed fountain lapping sounds on Overpass; ...     </div>
+    <div class="c-blogs__item-footer">
+        <div class="o-author o-author--logo">
+            <a href="https://skins.cash/blog/author/skins-cash/" class="o-author__logo">
+                <img src="https://skins.cash/blog/wp-content/uploads/2018/02/skinscash-avatar-150x150.jpg" width="50" height="50" alt="skins.cash" class="avatar avatar-50 wp-user-avatar wp-user-avatar-50 alignnone photo" />            </a>
+            <a href="https://skins.cash/blog/author/skins-cash/" class="o-author__name">skins.cash</a>
+            <span class="o-author__date">May 24, 2018</span>
+        </div>
+<!--        <div class="c-blogs__item-like">-->
+<!--            <span class="o-favorite c-article-share__icon">-->
+<!--                <svg class="ic-favorite"><use xlink:href="#ic-favorite"/></svg>-->
+<!--                <span class="o-favorite__counter">2</span>-->
+<!--            </span>-->
+<!--        </div>-->
+    </div>
+</div>                    </article>
+                                                    <article class="c-blogs__item">
+                                    <a href="https://skins.cash/blog/cs-go-update-05-17-2018/" title="CS:GO Update: Changes to Nuke and Overpass, neck shots"
+   class="c-blogs__item-img-wrap">
+    <img src="https://skins.cash/blog/wp-content/uploads/2018/05/skinscash_blog_tumba_csgo_upd_01.jpg" class="c-blogs__item-img" alt=""/>
+</a>
+<div class="c-blogs__item-content">
+    <div class="c-blogs__item-title"><a href="https://skins.cash/blog/cs-go-update-05-17-2018/" title="CS:GO Update: Changes to Nuke and Overpass, neck shots">CS:GO Update: Changes to Nuke and Overpass, neck shots</a>
+    </div>
+    <div class="c-blogs__item-text">
+        The developers of Counter-Strike: Global Offensive have prepared a fresh game update. It introduces adjustments to maps and some changes to the gameplay. The previous CS:GO update changed the animation of SMGs and improved the ShortNuke map. Shot in the neck – it may be a headshot Adding a new neck hitbox type is the most ...     </div>
+    <div class="c-blogs__item-footer">
+        <div class="o-author o-author--logo">
+            <a href="https://skins.cash/blog/author/skins-cash/" class="o-author__logo">
+                <img src="https://skins.cash/blog/wp-content/uploads/2018/02/skinscash-avatar-150x150.jpg" width="50" height="50" alt="skins.cash" class="avatar avatar-50 wp-user-avatar wp-user-avatar-50 alignnone photo" />            </a>
+            <a href="https://skins.cash/blog/author/skins-cash/" class="o-author__name">skins.cash</a>
+            <span class="o-author__date">May 18, 2018</span>
+        </div>
+<!--        <div class="c-blogs__item-like">-->
+<!--            <span class="o-favorite c-article-share__icon">-->
+<!--                <svg class="ic-favorite"><use xlink:href="#ic-favorite"/></svg>-->
+<!--                <span class="o-favorite__counter">2</span>-->
+<!--            </span>-->
+<!--        </div>-->
+    </div>
+</div>                    </article>
+                                                    <article class="c-blogs__item">
+                                    <a href="https://skins.cash/blog/esl-one-birmingham-2018-preview/" title="ESL One Birmingham 2018"
+   class="c-blogs__item-img-wrap">
+    <img src="https://skins.cash/blog/wp-content/uploads/2018/05/one1.jpg" class="c-blogs__item-img" alt=""/>
+</a>
+<div class="c-blogs__item-content">
+    <div class="c-blogs__item-title"><a href="https://skins.cash/blog/esl-one-birmingham-2018-preview/" title="ESL One Birmingham 2018">ESL One Birmingham 2018</a>
+    </div>
+    <div class="c-blogs__item-text">
+        Aren’t you tired of all the majors this season? Professional players certainly are, as they are often declining invitations to focus on training for The International. Only two majors before TI 2018 remain, and the stakes are high, as every team wants to gain extra DPC points and guarantee their invitation to the most anticipated ...     </div>
+    <div class="c-blogs__item-footer">
+        <div class="o-author o-author--logo">
+            <a href="https://skins.cash/blog/author/skins-cash/" class="o-author__logo">
+                <img src="https://skins.cash/blog/wp-content/uploads/2018/02/skinscash-avatar-150x150.jpg" width="50" height="50" alt="skins.cash" class="avatar avatar-50 wp-user-avatar wp-user-avatar-50 alignnone photo" />            </a>
+            <a href="https://skins.cash/blog/author/skins-cash/" class="o-author__name">skins.cash</a>
+            <span class="o-author__date">May 18, 2018</span>
+        </div>
+<!--        <div class="c-blogs__item-like">-->
+<!--            <span class="o-favorite c-article-share__icon">-->
+<!--                <svg class="ic-favorite"><use xlink:href="#ic-favorite"/></svg>-->
+<!--                <span class="o-favorite__counter">2</span>-->
+<!--            </span>-->
+<!--        </div>-->
+    </div>
+</div>                    </article>
+                                                    <article class="c-blogs__item">
+                                    <a href="https://skins.cash/blog/pubg-update-13/" title="PUBG Update #13: Parachute Skins, Aviator Crate"
+   class="c-blogs__item-img-wrap">
+    <img src="https://skins.cash/blog/wp-content/uploads/2018/05/udpate13.jpg" class="c-blogs__item-img" alt=""/>
+</a>
+<div class="c-blogs__item-content">
+    <div class="c-blogs__item-title"><a href="https://skins.cash/blog/pubg-update-13/" title="PUBG Update #13: Parachute Skins, Aviator Crate">PUBG Update #13: Parachute Skins, Aviator Crate</a>
+    </div>
+    <div class="c-blogs__item-text">
+        New PUBG skins have been added to the game with the latest update. And they are not only clothes for the virtual characters – from now on, we have skins for the parachute! PUBG Update #13 is not as big as the previous one that changed the weapon balance. Most of the fresh improvements are connected ...     </div>
+    <div class="c-blogs__item-footer">
+        <div class="o-author o-author--logo">
+            <a href="https://skins.cash/blog/author/skins-cash/" class="o-author__logo">
+                <img src="https://skins.cash/blog/wp-content/uploads/2018/02/skinscash-avatar-150x150.jpg" width="50" height="50" alt="skins.cash" class="avatar avatar-50 wp-user-avatar wp-user-avatar-50 alignnone photo" />            </a>
+            <a href="https://skins.cash/blog/author/skins-cash/" class="o-author__name">skins.cash</a>
+            <span class="o-author__date">May 17, 2018</span>
+        </div>
+<!--        <div class="c-blogs__item-like">-->
+<!--            <span class="o-favorite c-article-share__icon">-->
+<!--                <svg class="ic-favorite"><use xlink:href="#ic-favorite"/></svg>-->
+<!--                <span class="o-favorite__counter">2</span>-->
+<!--            </span>-->
+<!--        </div>-->
+    </div>
+</div>                    </article>
+                            </div>
+            <div class="c-blogs__btn-wrap">
+                <a href="https://skins.cash/blog/news/ " class="o-btn o-btn--more">
+                    More News                </a>
+            </div>
+        </section>
+                <section class="с-blogs">
+            <h2 class="c-blogs__title">Tournaments</h2>
+            <div class="c-blogs-grid">
+                                                    <article class="c-blogs__item  c-blogs__item--large">
+                                    <a href="https://skins.cash/blog/epl-season-7-finals-results/" title="ESL Pro League Season 7: Finals – results, video"
+   class="c-blogs__item-img-wrap">
+    <img src="https://skins.cash/blog/wp-content/uploads/2018/05/skinscash_blog_tumba_ESL_Dalas.jpg" class="c-blogs__item-img" alt=""/>
+</a>
+<div class="c-blogs__item-content">
+    <div class="c-blogs__item-title"><a href="https://skins.cash/blog/epl-season-7-finals-results/" title="ESL Pro League Season 7: Finals – results, video">ESL Pro League Season 7: Finals – results, video</a>
+    </div>
+    <div class="c-blogs__item-text">
+        A big CS:GO tournament has finished in Dallas, Texas. Esports fans witnessed adrenaline-filled matches of 16 world famous teams. Now, we can reveal the results of ESL Pro League Season 7 – who was crowned champion, who demonstrated real gaming spirit and the power of perfect skills? All matches of ESL Pro League Season 7: ...     </div>
+    <div class="c-blogs__item-footer">
+        <div class="o-author o-author--logo">
+            <a href="https://skins.cash/blog/author/skins-cash/" class="o-author__logo">
+                <img src="https://skins.cash/blog/wp-content/uploads/2018/02/skinscash-avatar-150x150.jpg" width="50" height="50" alt="skins.cash" class="avatar avatar-50 wp-user-avatar wp-user-avatar-50 alignnone photo" />            </a>
+            <a href="https://skins.cash/blog/author/skins-cash/" class="o-author__name">skins.cash</a>
+            <span class="o-author__date">May 21, 2018</span>
+        </div>
+<!--        <div class="c-blogs__item-like">-->
+<!--            <span class="o-favorite c-article-share__icon">-->
+<!--                <svg class="ic-favorite"><use xlink:href="#ic-favorite"/></svg>-->
+<!--                <span class="o-favorite__counter">2</span>-->
+<!--            </span>-->
+<!--        </div>-->
+    </div>
+</div>                    </article>
+                                                    <article class="c-blogs__item">
+                                    <a href="https://skins.cash/blog/epicenter-xl-results/" title="EPICENTER XL Results"
+   class="c-blogs__item-img-wrap">
+    <img src="https://skins.cash/blog/wp-content/uploads/2018/05/skinscash_blog_tumba_19.jpg" class="c-blogs__item-img" alt=""/>
+</a>
+<div class="c-blogs__item-content">
+    <div class="c-blogs__item-title"><a href="https://skins.cash/blog/epicenter-xl-results/" title="EPICENTER XL Results">EPICENTER XL Results</a>
+    </div>
+    <div class="c-blogs__item-text">
+        Epicenter XL has just finished, bringing us some amazing matches, surprising outcomes and something to discuss for a week until the next pro circuit tournament, MDL Changsta Major, starts. Epicenter was held from April 27 to May 6, with the main event at the VTB Ice Palace on May 4-6. Twelve teams fought for their ...     </div>
+    <div class="c-blogs__item-footer">
+        <div class="o-author o-author--logo">
+            <a href="https://skins.cash/blog/author/skins-cash/" class="o-author__logo">
+                <img src="https://skins.cash/blog/wp-content/uploads/2018/02/skinscash-avatar-150x150.jpg" width="50" height="50" alt="skins.cash" class="avatar avatar-50 wp-user-avatar wp-user-avatar-50 alignnone photo" />            </a>
+            <a href="https://skins.cash/blog/author/skins-cash/" class="o-author__name">skins.cash</a>
+            <span class="o-author__date">May 8, 2018</span>
+        </div>
+<!--        <div class="c-blogs__item-like">-->
+<!--            <span class="o-favorite c-article-share__icon">-->
+<!--                <svg class="ic-favorite"><use xlink:href="#ic-favorite"/></svg>-->
+<!--                <span class="o-favorite__counter">2</span>-->
+<!--            </span>-->
+<!--        </div>-->
+    </div>
+</div>                    </article>
+                                                    <article class="c-blogs__item">
+                                    <a href="https://skins.cash/blog/intel-extreme-masters-season-xiii-results-video/" title="Intel Extreme Masters Season XIII – results, video"
+   class="c-blogs__item-img-wrap">
+    <img src="https://skins.cash/blog/wp-content/uploads/2018/05/blog_skinscash_intel_tumba.jpg" class="c-blogs__item-img" alt=""/>
+</a>
+<div class="c-blogs__item-content">
+    <div class="c-blogs__item-title"><a href="https://skins.cash/blog/intel-extreme-masters-season-xiii-results-video/" title="Intel Extreme Masters Season XIII – results, video">Intel Extreme Masters Season XIII – results, video</a>
+    </div>
+    <div class="c-blogs__item-text">
+        A big CS:GO tournament took place in Sydney, Australia, on May 1-6. We saw exciting matches featuring 16 teams, which fought for the prize pool of $250,000 IEM XIII is part the Intel Grand Slamcompetition. It includes premium Esports events organized by ESL and DreamHack. The first team to get four victories in those tournaments ...     </div>
+    <div class="c-blogs__item-footer">
+        <div class="o-author o-author--logo">
+            <a href="https://skins.cash/blog/author/skins-cash/" class="o-author__logo">
+                <img src="https://skins.cash/blog/wp-content/uploads/2018/02/skinscash-avatar-150x150.jpg" width="50" height="50" alt="skins.cash" class="avatar avatar-50 wp-user-avatar wp-user-avatar-50 alignnone photo" />            </a>
+            <a href="https://skins.cash/blog/author/skins-cash/" class="o-author__name">skins.cash</a>
+            <span class="o-author__date">May 7, 2018</span>
+        </div>
+<!--        <div class="c-blogs__item-like">-->
+<!--            <span class="o-favorite c-article-share__icon">-->
+<!--                <svg class="ic-favorite"><use xlink:href="#ic-favorite"/></svg>-->
+<!--                <span class="o-favorite__counter">2</span>-->
+<!--            </span>-->
+<!--        </div>-->
+    </div>
+</div>                    </article>
+                                                    <article class="c-blogs__item">
+                                    <a href="https://skins.cash/blog/dreamhack-masters-marseille-final-results/" title="DreamHack Masters Marseille: Final Results"
+   class="c-blogs__item-img-wrap">
+    <img src="https://skins.cash/blog/wp-content/uploads/2018/04/Skinscash_blog_tumba_dreamhuck.png" class="c-blogs__item-img" alt=""/>
+</a>
+<div class="c-blogs__item-content">
+    <div class="c-blogs__item-title"><a href="https://skins.cash/blog/dreamhack-masters-marseille-final-results/" title="DreamHack Masters Marseille: Final Results">DreamHack Masters Marseille: Final Results</a>
+    </div>
+    <div class="c-blogs__item-text">
+        This major CS:GO Esports tournament took place from April 18-22. Marseille is in the south of France, but we could enjoy the matches online. 16 teams faced off to win part of the $250,000 prize pool. The Skins.Cash blog invites you to watch the videos of the matches and follow the results in this post. ...     </div>
+    <div class="c-blogs__item-footer">
+        <div class="o-author o-author--logo">
+            <a href="https://skins.cash/blog/author/skins-cash/" class="o-author__logo">
+                <img src="https://skins.cash/blog/wp-content/uploads/2018/02/skinscash-avatar-150x150.jpg" width="50" height="50" alt="skins.cash" class="avatar avatar-50 wp-user-avatar wp-user-avatar-50 alignnone photo" />            </a>
+            <a href="https://skins.cash/blog/author/skins-cash/" class="o-author__name">skins.cash</a>
+            <span class="o-author__date">April 26, 2018</span>
+        </div>
+<!--        <div class="c-blogs__item-like">-->
+<!--            <span class="o-favorite c-article-share__icon">-->
+<!--                <svg class="ic-favorite"><use xlink:href="#ic-favorite"/></svg>-->
+<!--                <span class="o-favorite__counter">2</span>-->
+<!--            </span>-->
+<!--        </div>-->
+    </div>
+</div>                    </article>
+                                                    <article class="c-blogs__item">
+                                    <a href="https://skins.cash/blog/dota-2-asia-championship-2018/" title="Dota 2 Asia Championship 2018"
+   class="c-blogs__item-img-wrap">
+    <img src="https://skins.cash/blog/wp-content/uploads/2018/04/DMarket_blog_tumba_40.jpg" class="c-blogs__item-img" alt=""/>
+</a>
+<div class="c-blogs__item-content">
+    <div class="c-blogs__item-title"><a href="https://skins.cash/blog/dota-2-asia-championship-2018/" title="Dota 2 Asia Championship 2018">Dota 2 Asia Championship 2018</a>
+    </div>
+    <div class="c-blogs__item-text">
+        March 29 – April 7 The top sixteen esports teams gathered in Shanghai to compete for an impressive prize pool of $1,000,000 and 1,500 qualifying points that will ensure their invitation to the International. Six teams were invited to the event, while ten others fought in regional qualifiers for their right to participate. This championship ...     </div>
+    <div class="c-blogs__item-footer">
+        <div class="o-author o-author--logo">
+            <a href="https://skins.cash/blog/author/skins-cash/" class="o-author__logo">
+                <img src="https://skins.cash/blog/wp-content/uploads/2018/02/skinscash-avatar-150x150.jpg" width="50" height="50" alt="skins.cash" class="avatar avatar-50 wp-user-avatar wp-user-avatar-50 alignnone photo" />            </a>
+            <a href="https://skins.cash/blog/author/skins-cash/" class="o-author__name">skins.cash</a>
+            <span class="o-author__date">April 20, 2018</span>
+        </div>
+<!--        <div class="c-blogs__item-like">-->
+<!--            <span class="o-favorite c-article-share__icon">-->
+<!--                <svg class="ic-favorite"><use xlink:href="#ic-favorite"/></svg>-->
+<!--                <span class="o-favorite__counter">2</span>-->
+<!--            </span>-->
+<!--        </div>-->
+    </div>
+</div>                    </article>
+                            </div>
+            <div class="c-blogs__btn-wrap">
+                <a href="https://skins.cash/blog/tournaments/ " class="o-btn o-btn--more">
+                    More Tournaments                </a>
+            </div>
+        </section>
+                <section class="с-blogs">
+            <h2 class="c-blogs__title">Reviews</h2>
+            <div class="c-blogs-grid">
+                                                    <article class="c-blogs__item  c-blogs__item--large">
+                                    <a href="https://skins.cash/blog/toxic-players-in-dota-2/" title="7 Types of Toxic Players That Can Ruin Your Game"
+   class="c-blogs__item-img-wrap">
+    <img src="https://skins.cash/blog/wp-content/uploads/2018/05/skinscash_blog_tumba_out_0.jpg" class="c-blogs__item-img" alt=""/>
+</a>
+<div class="c-blogs__item-content">
+    <div class="c-blogs__item-title"><a href="https://skins.cash/blog/toxic-players-in-dota-2/" title="7 Types of Toxic Players That Can Ruin Your Game">7 Types of Toxic Players That Can Ruin Your Game</a>
+    </div>
+    <div class="c-blogs__item-text">
+        If you have never encountered a toxic player in Dota 2, you probably have been playing some other game. There are so many people out there that can’t contain their anger or at least voice it correctly, that toxicity has become an endless source of jokes and memes. However, the game is still great and ...     </div>
+    <div class="c-blogs__item-footer">
+        <div class="o-author o-author--logo">
+            <a href="https://skins.cash/blog/author/hanna-synetska/" class="o-author__logo">
+                <img src="https://skins.cash/blog/wp-content/uploads/2018/03/avatar-girl-150x150.jpg" width="50" height="50" alt="Hanna Synetska" class="avatar avatar-50 wp-user-avatar wp-user-avatar-50 alignnone photo" />            </a>
+            <a href="https://skins.cash/blog/author/hanna-synetska/" class="o-author__name">Hanna Synetska</a>
+            <span class="o-author__date">May 15, 2018</span>
+        </div>
+<!--        <div class="c-blogs__item-like">-->
+<!--            <span class="o-favorite c-article-share__icon">-->
+<!--                <svg class="ic-favorite"><use xlink:href="#ic-favorite"/></svg>-->
+<!--                <span class="o-favorite__counter">2</span>-->
+<!--            </span>-->
+<!--        </div>-->
+    </div>
+</div>                    </article>
+                                                    <article class="c-blogs__item">
+                                    <a href="https://skins.cash/blog/main-3-features-of-dota-2-plus/" title="New Exciting Feature Added: Dota Plus"
+   class="c-blogs__item-img-wrap">
+    <img src="https://skins.cash/blog/wp-content/uploads/2018/04/skinscash_blog_tumba_8.jpg" class="c-blogs__item-img" alt=""/>
+</a>
+<div class="c-blogs__item-content">
+    <div class="c-blogs__item-title"><a href="https://skins.cash/blog/main-3-features-of-dota-2-plus/" title="New Exciting Feature Added: Dota Plus">New Exciting Feature Added: Dota Plus</a>
+    </div>
+    <div class="c-blogs__item-text">
+        Valve has issued a surprisingly large number of updates this year. We can say that their motto this year probably has something to do with change. At first, they altered the update policy, and now you can wave bye-bye to the good old Majors Battle Pass. The official Dota website is calling the new subscription ...     </div>
+    <div class="c-blogs__item-footer">
+        <div class="o-author o-author--logo">
+            <a href="https://skins.cash/blog/author/hanna-synetska/" class="o-author__logo">
+                <img src="https://skins.cash/blog/wp-content/uploads/2018/03/avatar-girl-150x150.jpg" width="50" height="50" alt="Hanna Synetska" class="avatar avatar-50 wp-user-avatar wp-user-avatar-50 alignnone photo" />            </a>
+            <a href="https://skins.cash/blog/author/hanna-synetska/" class="o-author__name">Hanna Synetska</a>
+            <span class="o-author__date">April 16, 2018</span>
+        </div>
+<!--        <div class="c-blogs__item-like">-->
+<!--            <span class="o-favorite c-article-share__icon">-->
+<!--                <svg class="ic-favorite"><use xlink:href="#ic-favorite"/></svg>-->
+<!--                <span class="o-favorite__counter">2</span>-->
+<!--            </span>-->
+<!--        </div>-->
+    </div>
+</div>                    </article>
+                                                    <article class="c-blogs__item">
+                                    <a href="https://skins.cash/blog/pubg-mobile-review/" title="PUBG Mobile Gameplay Review"
+   class="c-blogs__item-img-wrap">
+    <img src="https://skins.cash/blog/wp-content/uploads/2018/03/mobile-pubg-main.jpg" class="c-blogs__item-img" alt=""/>
+</a>
+<div class="c-blogs__item-content">
+    <div class="c-blogs__item-title"><a href="https://skins.cash/blog/pubg-mobile-review/" title="PUBG Mobile Gameplay Review">PUBG Mobile Gameplay Review</a>
+    </div>
+    <div class="c-blogs__item-text">
+        In the middle of March 2018, one of the most popular games of modern times was released for mobile devices – PUBG Mobile is free for Android and iOS smartphones.    </div>
+    <div class="c-blogs__item-footer">
+        <div class="o-author o-author--logo">
+            <a href="https://skins.cash/blog/author/eugene-bozhenko/" class="o-author__logo">
+                <img src="https://skins.cash/blog/wp-content/uploads/2018/02/avatar-boy-150x150.jpg" width="50" height="50" alt="Eugene Bozhenko" class="avatar avatar-50 wp-user-avatar wp-user-avatar-50 alignnone photo" />            </a>
+            <a href="https://skins.cash/blog/author/eugene-bozhenko/" class="o-author__name">Eugene Bozhenko</a>
+            <span class="o-author__date">March 26, 2018</span>
+        </div>
+<!--        <div class="c-blogs__item-like">-->
+<!--            <span class="o-favorite c-article-share__icon">-->
+<!--                <svg class="ic-favorite"><use xlink:href="#ic-favorite"/></svg>-->
+<!--                <span class="o-favorite__counter">2</span>-->
+<!--            </span>-->
+<!--        </div>-->
+    </div>
+</div>                    </article>
+                                                    <article class="c-blogs__item">
+                                    <a href="https://skins.cash/blog/expensive-csgo-skins/" title="The Most Expensive CS:GO Skins on Steam Market"
+   class="c-blogs__item-img-wrap">
+    <img src="https://skins.cash/blog/wp-content/uploads/2018/03/The-Most-Expensive-CSGO-Skins-main-2.png" class="c-blogs__item-img" alt=""/>
+</a>
+<div class="c-blogs__item-content">
+    <div class="c-blogs__item-title"><a href="https://skins.cash/blog/expensive-csgo-skins/" title="The Most Expensive CS:GO Skins on Steam Market">The Most Expensive CS:GO Skins on Steam Market</a>
+    </div>
+    <div class="c-blogs__item-text">
+        The value of skins is as subtle as the skins themselves. You can’t touch them to feel their quality. You can’t get any advantages from them in your game – there are no such plusses, only visual effects. Still, skins cost real money. Some of them can be sold for thousands of dollars, others have ...     </div>
+    <div class="c-blogs__item-footer">
+        <div class="o-author o-author--logo">
+            <a href="https://skins.cash/blog/author/eugene-bozhenko/" class="o-author__logo">
+                <img src="https://skins.cash/blog/wp-content/uploads/2018/02/avatar-boy-150x150.jpg" width="50" height="50" alt="Eugene Bozhenko" class="avatar avatar-50 wp-user-avatar wp-user-avatar-50 alignnone photo" />            </a>
+            <a href="https://skins.cash/blog/author/eugene-bozhenko/" class="o-author__name">Eugene Bozhenko</a>
+            <span class="o-author__date">March 20, 2018</span>
+        </div>
+<!--        <div class="c-blogs__item-like">-->
+<!--            <span class="o-favorite c-article-share__icon">-->
+<!--                <svg class="ic-favorite"><use xlink:href="#ic-favorite"/></svg>-->
+<!--                <span class="o-favorite__counter">2</span>-->
+<!--            </span>-->
+<!--        </div>-->
+    </div>
+</div>                    </article>
+                                                    <article class="c-blogs__item">
+                                    <a href="https://skins.cash/blog/2017-popular-skins-skinscash/" title="A Look Back at 2017: The Most Popular Skins on Skins.Cash Revealed"
+   class="c-blogs__item-img-wrap">
+    <img src="https://skins.cash/blog/wp-content/uploads/2018/03/most-popular-skins.jpg" class="c-blogs__item-img" alt=""/>
+</a>
+<div class="c-blogs__item-content">
+    <div class="c-blogs__item-title"><a href="https://skins.cash/blog/2017-popular-skins-skinscash/" title="A Look Back at 2017: The Most Popular Skins on Skins.Cash Revealed">A Look Back at 2017: The Most Popular Skins on Skins.Cash Revealed</a>
+    </div>
+    <div class="c-blogs__item-text">
+        Ten years ago, you would have been a laughing stock if you suggested buying cosmetic items for real money that don’t give you any in-game advantage. But here we are, and the skins market is blooming. The joint revenue of the gaming world reached an astonishing $109 billion in 2017. The most significant part of ...     </div>
+    <div class="c-blogs__item-footer">
+        <div class="o-author o-author--logo">
+            <a href="https://skins.cash/blog/author/hanna-synetska/" class="o-author__logo">
+                <img src="https://skins.cash/blog/wp-content/uploads/2018/03/avatar-girl-150x150.jpg" width="50" height="50" alt="Hanna Synetska" class="avatar avatar-50 wp-user-avatar wp-user-avatar-50 alignnone photo" />            </a>
+            <a href="https://skins.cash/blog/author/hanna-synetska/" class="o-author__name">Hanna Synetska</a>
+            <span class="o-author__date">March 20, 2018</span>
+        </div>
+<!--        <div class="c-blogs__item-like">-->
+<!--            <span class="o-favorite c-article-share__icon">-->
+<!--                <svg class="ic-favorite"><use xlink:href="#ic-favorite"/></svg>-->
+<!--                <span class="o-favorite__counter">2</span>-->
+<!--            </span>-->
+<!--        </div>-->
+    </div>
+</div>                    </article>
+                            </div>
+            <div class="c-blogs__btn-wrap">
+                <a href="https://skins.cash/blog/reviews/ " class="o-btn o-btn--more">
+                    More Reviews                </a>
+            </div>
+        </section>
+                <section class="с-blogs">
+            <h2 class="c-blogs__title">Guides</h2>
+            <div class="c-blogs-grid">
+                                                    <article class="c-blogs__item  c-blogs__item--large">
+                                    <a href="https://skins.cash/blog/81-pubg-tips/" title="81 Essential PUBG Tips for Players of All Levels"
+   class="c-blogs__item-img-wrap">
+    <img src="https://skins.cash/blog/wp-content/uploads/2018/05/skinscash_blog_tumba_18.jpg" class="c-blogs__item-img" alt=""/>
+</a>
+<div class="c-blogs__item-content">
+    <div class="c-blogs__item-title"><a href="https://skins.cash/blog/81-pubg-tips/" title="81 Essential PUBG Tips for Players of All Levels">81 Essential PUBG Tips for Players of All Levels</a>
+    </div>
+    <div class="c-blogs__item-text">
+        Oh, that highly desired, dreamed of PUBG Chicken Dinner! It attracts millions of gamers, but only the best taste the sweetest victory. Do you want to win a match in the game PlayerUnknown’s Battlegrounds? The recipe for success is simple – play more and use tips from this post on the Skins.Cash blog. These tips ...     </div>
+    <div class="c-blogs__item-footer">
+        <div class="o-author o-author--logo">
+            <a href="https://skins.cash/blog/author/eugene-bozhenko/" class="o-author__logo">
+                <img src="https://skins.cash/blog/wp-content/uploads/2018/02/avatar-boy-150x150.jpg" width="50" height="50" alt="Eugene Bozhenko" class="avatar avatar-50 wp-user-avatar wp-user-avatar-50 alignnone photo" />            </a>
+            <a href="https://skins.cash/blog/author/eugene-bozhenko/" class="o-author__name">Eugene Bozhenko</a>
+            <span class="o-author__date">May 8, 2018</span>
+        </div>
+<!--        <div class="c-blogs__item-like">-->
+<!--            <span class="o-favorite c-article-share__icon">-->
+<!--                <svg class="ic-favorite"><use xlink:href="#ic-favorite"/></svg>-->
+<!--                <span class="o-favorite__counter">2</span>-->
+<!--            </span>-->
+<!--        </div>-->
+    </div>
+</div>                    </article>
+                                                    <article class="c-blogs__item">
+                                    <a href="https://skins.cash/blog/survival-guide-pubg/" title="Survival Guide for Beginners in PUBG"
+   class="c-blogs__item-img-wrap">
+    <img src="https://skins.cash/blog/wp-content/uploads/2018/02/pubg-guide-big.jpg" class="c-blogs__item-img" alt=""/>
+</a>
+<div class="c-blogs__item-content">
+    <div class="c-blogs__item-title"><a href="https://skins.cash/blog/survival-guide-pubg/" title="Survival Guide for Beginners in PUBG">Survival Guide for Beginners in PUBG</a>
+    </div>
+    <div class="c-blogs__item-text">
+        The world of PUBG is unpredictably dangerous. Any moment deadly bullets can hit your character, splattering blood all around. Gamers should be attentive and cautious to the max. There is no time to lazily watch landscapes – kill or be killed!    </div>
+    <div class="c-blogs__item-footer">
+        <div class="o-author o-author--logo">
+            <a href="https://skins.cash/blog/author/eugene-bozhenko/" class="o-author__logo">
+                <img src="https://skins.cash/blog/wp-content/uploads/2018/02/avatar-boy-150x150.jpg" width="50" height="50" alt="Eugene Bozhenko" class="avatar avatar-50 wp-user-avatar wp-user-avatar-50 alignnone photo" />            </a>
+            <a href="https://skins.cash/blog/author/eugene-bozhenko/" class="o-author__name">Eugene Bozhenko</a>
+            <span class="o-author__date">February 13, 2018</span>
+        </div>
+<!--        <div class="c-blogs__item-like">-->
+<!--            <span class="o-favorite c-article-share__icon">-->
+<!--                <svg class="ic-favorite"><use xlink:href="#ic-favorite"/></svg>-->
+<!--                <span class="o-favorite__counter">2</span>-->
+<!--            </span>-->
+<!--        </div>-->
+    </div>
+</div>                    </article>
+                            </div>
+            <div class="c-blogs__btn-wrap">
+                <a href="https://skins.cash/blog/guides/ " class="o-btn o-btn--more">
+                    More Guides                </a>
+            </div>
+        </section>
+                <section class="с-blogs">
+            <h2 class="c-blogs__title">Updates</h2>
+            <div class="c-blogs-grid">
+                                                    <article class="c-blogs__item  c-blogs__item--large">
+                                    <a href="https://skins.cash/blog/skinscash-new-features-updates/" title="How Skins.Cash Became Better in 2017: New Features and Updates"
+   class="c-blogs__item-img-wrap">
+    <img src="https://skins.cash/blog/wp-content/uploads/2018/03/skinscash-new-features.jpg" class="c-blogs__item-img" alt=""/>
+</a>
+<div class="c-blogs__item-content">
+    <div class="c-blogs__item-title"><a href="https://skins.cash/blog/skinscash-new-features-updates/" title="How Skins.Cash Became Better in 2017: New Features and Updates">How Skins.Cash Became Better in 2017: New Features and Updates</a>
+    </div>
+    <div class="c-blogs__item-text">
+        2017 was a challenging, yet fruitful year for our team. We managed to introduce new features and solve a couple of complicated problems. We hope that we managed to be an awesome service for you. Here is the list of the main things that changed during the last year.    </div>
+    <div class="c-blogs__item-footer">
+        <div class="o-author o-author--logo">
+            <a href="https://skins.cash/blog/author/skins-cash/" class="o-author__logo">
+                <img src="https://skins.cash/blog/wp-content/uploads/2018/02/skinscash-avatar-150x150.jpg" width="50" height="50" alt="skins.cash" class="avatar avatar-50 wp-user-avatar wp-user-avatar-50 alignnone photo" />            </a>
+            <a href="https://skins.cash/blog/author/skins-cash/" class="o-author__name">skins.cash</a>
+            <span class="o-author__date">March 20, 2018</span>
+        </div>
+<!--        <div class="c-blogs__item-like">-->
+<!--            <span class="o-favorite c-article-share__icon">-->
+<!--                <svg class="ic-favorite"><use xlink:href="#ic-favorite"/></svg>-->
+<!--                <span class="o-favorite__counter">2</span>-->
+<!--            </span>-->
+<!--        </div>-->
+    </div>
+</div>                    </article>
+                            </div>
+            <div class="c-blogs__btn-wrap">
+                <a href="https://skins.cash/blog/updates/ " class="o-btn o-btn--more">
+                    More Updates                </a>
+            </div>
+        </section>
+        
+
+    </div> <!--  l-container l-container--main -->
+</div> <!-- l-wrapper -->
+
+<footer class="c-footer">
+    <div class="l-container">
+        <div class="c-footer-item c-footer-item-logo">
+            <figure class="c-footer__logo-wrap">
+                <a href="index.html"><img alt="logo" class="c-footer__logo" src="https://skins.cash/blog/wp-content/themes/skinscash/assets/images/logo_white.svg" width="115" height="37"></a>
+            </figure>
+        </div>
+        <div class="c-footer-item">
+            <ul class="c-footer__list-container">
+                <li class="c-footer__list-item">
+                    <a href="https://skins.cash/now-it-works" class="c-footer__link" target="_blank">How it works</a>
+                </li>
+
+                <li class="c-footer__list-item">
+                    <a href="loyalty-bonus" class="c-footer__link" target="_blank">Bonus</a>
+                </li>
+
+                <li class="c-footer__list-item">
+                    <a href="faq" class="c-footer__link" target="_blank">FAQ</a>
+                </li>
+
+                <li class="c-footer__list-item">
+                    <a href="contact-us" class="c-footer__link" target="_blank">Contact us</a>
+                </li>
+
+                <li class="c-footer__list-item">
+                    <a href="privacy-policy" class="c-footer__link" target="_blank">Terms of Use</a>
+                </li>
+
+                <li class="c-footer__list-item">
+                    <a href="terms-of-use" class="c-footer__link" target="_blank">Privacy Policy</a>
+                </li>
+            </ul>
+        </div>
+
+        <div class="c-footer-item">
+            <ul class="c-footer__list-container">
+                <li class="c-footer__list-item">
+                    <a href="free-skins-giveaway" class="c-footer__link" target="_blank">Giveaway</a>
+                </li>
+
+                <li class="c-footer__list-item">
+                    <a href="partnership" class="c-footer__link" target="_blank">Partnership</a>
+                </li>
+
+                <li class="c-footer__list-item">
+                    <a href="instant-skins-trade" class="c-footer__link" target="_blank">Instant cash</a>
+                </li>
+
+                <li class="c-footer__list-item">
+                    <a href="safe-skin-trading" class="c-footer__link" target="_blank">100% Secure</a>
+                </li>
+
+                <li class="c-footer__list-item">
+                    <a href="trade-skins-without-hidden-fees" class="c-footer__link" target="_blank" href="index.html">No hidden fees</a>
+                </li>
+            </ul>
+        </div>
+
+        <div class="c-footer-item c-footer-item-socials">
+            <ul class="o-socials">
+                <li class="o-socials__item">
+                    <a href="https://www.facebook.com/skins.cash" class="o-socials__link">
+                        <svg class="o-socials__icon ic-facebook"><use xlink:href="#ic-facebook"></use></svg>
+                    </a>
+                </li>
+                <li class="o-socials__item">
+                    <a href="https://www.instagram.com/skins.cash/" class="o-socials__link">
+                        <svg class="o-socials__icon ic-insta"><use xlink:href="#ic-insta"></use></svg>
+                    </a>
+                </li>
+                <li class="o-socials__item">
+                    <a href="http://steamcommunity.com/groups/skinscash" class="o-socials__link">
+                        <svg class="o-socials__icon ic-steam"><use xlink:href="#ic-steam"></use></svg>
+                    </a>
+                </li>
+                <li class="o-socials__item">
+                    <a href="https://twitter.com/Skins_Cash" class="o-socials__link">
+                        <svg class="o-socials__icon ic-twitter"><use xlink:href="#ic-twitter"></use></svg>
+                    </a>
+                </li>
+                <li class="o-socials__item">
+                    <a href="https://www.linkedin.com/company/skins-cash/" class="o-socials__link">
+                        <svg class="o-socials__icon ic-linkedin"><use xlink:href="#ic-linkedin"></use></svg>
+                    </a>
+                </li>
+                <li class="o-socials__item">
+                    <a href="https://vk.com/skins.cash" class="o-socials__link">
+                        <svg class="o-socials__icon ic-vk"><use xlink:href="#ic-vk"></use></svg>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="l-container">
+        <address class="c-footer__copyright">
+            <p>Copyright © 2017 skins.cash. All rights reserved.</p>
+            <p>Powered by Steam, a registered trademark of Valve Corporation.</p>
+            <p>Valve, the Valve logo, the Steam logo, the logos and arts of CS:GO, Dota 2, Team Fortress 2, PUBG, along with all other registered trademarked logos, in-game items, and arts on Skins.Cash are the property of their respective owners.</p>
+            <p>Skins.cash is in no way affiliated with or endorsed by Valve Corporation.</p>
+        </address>
+    </div>
+</footer>
+
+<script type='text/javascript' src='https://skins.cash/blog/wp-includes/js/wp-embed.min.js?ver=4.9.6'></script>
+
+</body>
+</html>
